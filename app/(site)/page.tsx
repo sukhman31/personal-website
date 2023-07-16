@@ -7,7 +7,7 @@ export default async function Home() {
   return (
     <div className=" max-w-5xl mx-auto py-20">
       <h1 className=" text-7xl font-extrabold">
-        Hello I'm <span className=" bg-gradient-to-r from-orange-300 via-yellow-300 to-purple-500 bg-clip-text text-transparent">
+        Hello I am <span className=" bg-gradient-to-r from-orange-300 via-yellow-300 to-purple-500 bg-clip-text text-transparent">
           Sukhman!
         </span>
       </h1>
